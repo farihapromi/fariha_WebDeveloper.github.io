@@ -4,15 +4,12 @@ const AboutMe = () => {
       <div className='half-width'>
         <h1 className='about-me'>About Me</h1>
         <p className='about-me-para'>
-          I am a Full Stack Developer with hands-on experience in JavaScript,
-          TypeScript, Next.js, React, C, C++, Python, and Golang. I have built
-          scalable, responsive, and user-friendly web applications with a strong
-          focus on clean code, performance, and maintainability. Alongside
-          development, I have a strong interest in Software Quality Assurance
-          (SQA), including testing, debugging, and ensuring application
-          reliability. I enjoy combining technical expertise with
-          quality-focused practices to deliver robust and high-performing
-          software solutions.
+          Full Stack Developer with experience in JavaScript, TypeScript, React,
+          Next.js, C, C++, Python, and Golang. Skilled in building responsive
+          web applications, RESTful APIs, and maintaining code quality. Strong
+          interest in Software Quality Assurance (SQA), including testing,
+          debugging, and quality improvement. Passionate about developing
+          reliable, scalable, and maintainable software solutions.
         </p>
       </div>
       <div className='half-width profile-container'>

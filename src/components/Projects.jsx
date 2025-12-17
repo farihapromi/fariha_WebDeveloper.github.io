@@ -36,11 +36,6 @@ const Projects = () => {
           </p>
           <a href='https://heaven-stay-teal.vercel.app/'>View Project</a>
         </div>
-        <div className='project-card'>
-          <h3>Unishop Ecommerce</h3>
-          <p>Description</p>
-          <a href='https://unishop-ecommerce.onrender.com/'>View Project</a>
-        </div>
 
         <div className='project-card'>
           <h3>FuelEase Slot Booking System</h3>
