@@ -7,11 +7,13 @@ const Education = () => {
       <div className="education-container">
         <div className="education-card">
           <h3>Bachelor of Science (BSc)</h3>
+          <p>Cgpa-3.31/4</p>
           <p>Computer Science and Engineering</p>
           <p>Jahangirnagar University</p>
         </div>
         <div className="education-card">
           <h3>Master of Science (MSc)</h3>
+             <p>Cgpa-3.60/4</p>
           <p>Computer Science and Engineering</p>
           <p>Jahangirnagar University</p>
         </div>
